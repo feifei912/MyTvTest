@@ -1,0 +1,2 @@
+# Universe Safety Statement
+## All resources in this material are sourced from the internet and are intended solely for the collection and sharing by enthusiasts. The copyright belongs to the original authors or copyright holders. If there is any infringement, please contact me for removal. This material is for educational and communication purposes only and shall not be used for commercial purposes.

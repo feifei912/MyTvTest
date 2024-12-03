@@ -1,0 +1,18 @@
+{
+    "urls": [
+      {
+          "url": "https://gitee.com/feifei912/my-tv-test/raw/master/TvboxAddress.json",
+          "name": "feifei的线路",
+          "time": "主线路更新2024年11月22日"
+      },
+      {
+          "url": "http://ok321.top/tv",
+          "name": "ok炸天",
+          "wrong":"需要关注微信公办号"
+      },
+      {
+          "url": "http://cdn.qiaoji8.com/tvbox.json",
+          "name": "巧计"
+      }
+  ]
+}
